@@ -13,3 +13,26 @@ div {
 #violet {
   background-color: blue;
 }
+
+#red {
+  color: red;
+}
+#orange{
+  color: orange;
+} 
+#yellow{
+  color: yellow;
+} 
+#green{
+  color: green;
+} 
+#blue{
+  color: blue;
+} 
+#indigo{
+  color: #4b0082;
+} 
+#violet{
+  color: #800080;
+}
+}
